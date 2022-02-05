@@ -1,0 +1,27 @@
+.table1{
+    background-image: url(http://kolevit.ru/wp-content/uploads/2017/11/image2.png);
+    border: 20px outset cornflowerblue ;
+    padding:10px;
+        text-align:center;
+        width: 250px;
+        border-radius: 30px;
+    margin:10px auto;
+}
+
+input{
+    border-bottom: 5px outset blue;
+    border-left: 5px outset green;
+    border-top: 5px outset yellow;
+    border-right: 5px outset red;
+    width:200px;
+}
+.table2{
+  background-color: cornflowerblue;
+  border: 20px outset #a840ff ;
+  padding:10px;
+  margin-bottom: 100px;
+      text-align:center;
+      width: 250px;
+      border-radius: 30px;
+  margin:10px auto;
+}
